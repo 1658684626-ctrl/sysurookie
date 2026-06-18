@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - '.github/workflows/deploy-website.yml'
       - 'website/**'
       - 'website/vite.config.ts'
       - 'package.json'
