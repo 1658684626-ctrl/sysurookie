@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EasyEvent</string>
+    <string name="title_activity_main">EasyEvent</string>
+    <string name="package_name">com.easyevent.app</string>
+    <string name="custom_url_scheme">com.easyevent.app</string>
+</resources>
